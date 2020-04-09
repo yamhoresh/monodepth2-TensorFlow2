@@ -12,7 +12,7 @@ This repo is intended for those who'd prefer the TensorFlow-Keras framework, as 
 
 The model is based on the pre-trained PyTorch encoder & decoder for the single image mono_640x192 model.
 
-##Example
+## Inference example
 
 ![Input/Outputs](example.png)
 
@@ -23,7 +23,7 @@ The model is based on the pre-trained PyTorch encoder & decoder for the single i
 
 
 
-## Citation
+## Paper citation
 
 > **Digging into Self-Supervised Monocular Depth Prediction**
 >
